@@ -1,4 +1,4 @@
-# REsponsive Number Counting
+# Responsive Number Counting
 
 ## View
 
